@@ -1,0 +1,7 @@
+public class test
+{
+void hello()
+{
+System.out.pritnln("Hello World!");
+}
+}
